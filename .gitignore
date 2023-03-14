@@ -64,3 +64,5 @@ typings/
 .vscode/*
 !.vscode/settings.json
 public
+
+venv/
